@@ -3,7 +3,9 @@
 Project-M4U3 Shaima Husameldin Kamil
 > Built with [Roboflow](https://roboflow.com) · YOLOv12 · Ultralytics
 > 
-AI-powered helmet detection model for construction sites that identifies workers wearing safety helmets and counts helmets per image. Built using Roboflow and YOLOv8, the model supports automated safety monitoring, enabling fast visual inspection, improved compliance tracking, and scalable PPE analysis from site imagery.
+> 📦 **Roboflow Model**: [Trained Model](https://app.roboflow.com/shaimas-workspace/helmet-detection-model-6wiet/models/helmet-detection-model-6wiet/2)
+> 
+> AI-powered helmet detection model for construction sites that identifies workers wearing safety helmets and counts helmets per image. Built using Roboflow and YOLOv8, the model supports automated safety monitoring, enabling fast visual inspection, improved compliance tracking, and scalable PPE analysis from site imagery.
 
 
 ---
@@ -75,7 +77,6 @@ The model is considered successful when it:
 ## 🗂️ Dataset
 
 - 📦 **Roboflow Dataset**: [Helmet Detection Model v2](https://app.roboflow.com/shaimas-workspace/helmet-detection-model-6wiet/2)
-- 📦 **Roboflow Model**: [Trained Model](https://app.roboflow.com/shaimas-workspace/helmet-detection-model-6wiet/models/helmet-detection-model-6wiet/2)
 - **Classes**: `helmet`
 - **Augmentations applied**: Flip, brightness/contrast, crop, scale variation
 
